@@ -1,0 +1,2 @@
+2023-05-23 00:19:09,919 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.userMicroservice.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-05-23 00:19:10,240 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.userMicroservice.UserMicroserviceApplication for test class com.userMicroservice.controller.UserControllerTest
